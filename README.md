@@ -1,5 +1,5 @@
 # Javascript Sorting Algorithms
-Sorting algorithm summaries, implementing with JavaScript language. 
+Sorting algorithm summaries, implementing with JavaScript language.
 
 ### Contains:
 - [Straight Insertion Sort](./straightInsertionSort.js)
@@ -7,3 +7,4 @@ Sorting algorithm summaries, implementing with JavaScript language.
 - [Bubble Sort](./bubbleSort.js)
 - [Quick Sort](./quickSort.js)(two versions)
 - [Selection Sort](./selectionSort.js)
+- [Merge Sort](./mergeSort.js)
